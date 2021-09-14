@@ -68,7 +68,9 @@ University of Colorado, Boulder
 Advisors: Eliana Colunga, PhD & Tal Yarkoni, PhD 
 
 #Peer Reviewed Publications
-**Brandes-Aitken, A.N.**, Braren, S., Vogel, S., Perry, R., Brito, N., Blair, C. Within-Person Changes in Basal Cortisol and Caregiving Modulate Executive Attention across Infancy. Development and Psychopathology (In Press).
+Braren, S., Perry, R., Ribner, A., **Brandes-Aitken, A.N.**, Brito, N., Blair, C.Prenatal Mother-Father Cortisol Co-regulation Predicts Infant Executive Functions at 24 Months (2021). Developmental Psychobiology.  
+
+**Brandes-Aitken, A.N.**, Braren, S., Vogel, S., Perry, R., Brito, N., Blair, C. Within-Person Changes in Basal Cortisol and Caregiving Modulate Executive Attention across Infancy (2021). Development and Psychopathology.
 
 Vogel, S., Perry,R., **Brandes-Aitken, A.N.**, Braren,S., Blair, C. Deprivation and threat as developmental mediators in the relation between early life socioeconomic status and executive functioning outcomes in early childhood (2021). Developmental Cognitive Neuroscience. 
 
@@ -112,19 +114,16 @@ Chang,Y.S., Gratiot,M., Owen,J.P., **Brandes-Aitken, A. N.**, Desai, S.S., Hill,
 Demopoulos, C., **Brandes-Aitken, A. N.**, Desai, S. S., Hill, S. S., Antovich, A. D., Harris, J., & Marco, E. J. (2015). Shared and Divergent Auditory and Tactile Processing in Children with Autism and Children with Sensory Processing Dysfunction Relative to Typically Developing Peers. Journal of the International Neuropsychological Society, 21(06), 444-454.
 
 # Publications Under Review
-
-
-Braren, S., Perry, R.,**Brandes-Aitken, A.N.**, Brito, N., Blair, C.Prenatal Mother-Father Cortisol Co-regulation Predicts Infant Executive Functions at 24 Months.
-
+**Brandes-Aitken, A.N.**, Brito, N., Blair, C. Bridging Theory with Neuroscience to Understand how the Social Environment Dynamically Shapes Attention in Infancy   
 
 # Publications in Preperation
-
-**Brandes-Aitken, A.N.**, Brito, N., Blair, C. Bridging Theory with Neuroscience to Understand how the Social Environment Dynamically Shapes Attention in Infancy   
 
 **Brandes-Aitken, A.N.**, Braren, S., Brito, N. Caregiver Cumulative Cortisol Predicts Differential Frontal Cortex Maturation: Evidence from Resting EEG Trajectories
 
 
 # Published	Abstracts	and	Conference Presentations:
+**Brandes-Aitken, A.**, Braren, S., Greaves, A., Brito, N. (2021). Caregiver Hair Cortisol Predicts Differential Patterns of Longitudinal EEG Activity Across Infancy. Talk presented at the International Society for Developmental Psychobiology. Chicago, IL.
+
 **Brandes-Aitken, A.**, Braren, S., Greaves, A., Brito, N. (2021). Parent cortisol and the neural underpinnings of attention and emotion regulation in infancy. Talk presented at the Society for Research in Child Development. Virtual Conference. 
 
 **Brandes-Aitken, A.**, Braren, S., Greaves, A., Brito, N. (2020). Contributions of Cumulative Parent Cortisol to the Neural Underpinnings of Infant Attention and Emotion Regulation. Talk presented at the International Congress of Infant Studies. Virtual Conference. 
@@ -187,6 +186,9 @@ Anguera, J.A., Rolle, C., Desai, S., **Brandes-Aitken, A.**, Gibbons, J., Harris
 
 
 #Honors, Awards & Fellowships
+Travel Award, International Society for Developmental Psychobiology \hfill 2021  
+ \textcolor{white}{white} Chicago, IL 
+
 Felix M. Warburg Memorial Steinhardt Scholarship \hfill 2021  
  \textcolor{white}{white} New York University
 
@@ -215,10 +217,10 @@ Psy Chi Honor Society  \hfill 2011-2014
  \textcolor{white}{white} Cal Poly  
 
 # Consulting Experience and Professional Services
-Brooklyn College\hfill 2021  
+Brooklyn College\hfill 2021-Present  
  \textcolor{white}{white} Adjunct Lecturer
 
-Social Creatures \hfill 2020-2021  
+Social Creatures \hfill 2020-Present  
  \textcolor{white}{white} Community Impact Director 
 
 Silicea Labs\hfill 2020  
@@ -249,7 +251,7 @@ Intensive Autism Therapy  \hfill 2009-2011
  \textcolor{white}{white} Assistant Autism Therapist 
 
 #Ad Hoc Reviewing 
-Developmental Science \hfill 2021 
+Developmental Science \hfill 2021  
 Developmental Psychology \hfill 2020  
 Developmental Science (co-reviewed with C.B.) \hfill 2018  
 Psychiatry Research \hfill 2018  
