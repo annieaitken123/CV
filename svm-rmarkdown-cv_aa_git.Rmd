@@ -1,0 +1,246 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: ~/Downloads/svm-r-markdown-templates-master/svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Annie Brandes-Aitken
+
+jobtitle: "NSF Graduate Research Fellow"
+address: "Developmental Psychology · New York University"
+fontawesome: yes
+email: aba396@nyu.edu
+# github: svmiller
+phone: "303 653 4404"
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+# Education
+
+*Ph.D. in Developmental Psychology* \hfill 2022 (anticipated)  
+New York University  
+New York, NY
+
+
+*B.S. in Psychology with Honors, Minor in Statistics* \hfill 2014  
+California Polytechnic State University  
+San Luis Obispo, CA
+
+
+
+# Research Experience
+
+*NSF Graduate Research Fellow*  
+Neuroscience and Education Laboratory \hfill 2017-present  
+New York University  
+Advisors: Clancy Blair, PhD & Natalie Brito, PhD  
+
+*Research Assistant*  
+Education and Neuroscience Lab, Neuroscape Center \hfill 2015-2017  
+University of California, San Francisco  
+Advisors: Melina Uncapher, PhD & Adam Gazzaley PhD, MD  
+
+*Research Coordinator*  
+Sensory Neurodevelopment and Autism Program \hfill 2014-2017  
+University of California, San Francisco  
+Advisors: Elysa Marco, MD & Joaquin A. Anguera, PhD  
+
+*Undergraduate Research Student*  
+Department of Psychology  \hfill 2012-2014  
+California Polytechnic State University  
+Advisors: Laura Freberg, PhD & Carrie Langner, PhD  
+
+*Summer Research Assistant*  
+Language Lab & Psychoinformatics Lab \hfill 2013  
+University of Colorado, Boulder  
+Advisors: Eliana Colunga, PhD & Tal Yarkoni, PhD 
+
+#Peer Reviewed Publications
+Marco,  E.J., **Brandes-Aitken,A.N.**,  Prakas  Nair,  V.,  de  Gente,  G., Thomas,  S.,  Sherr,  E.H (2018). Burden of de novo mutations and inherited rare single nucleotide variants in children with sensory processing dysfunction (SPD): A prospective cohort study. BMC Medical Genomics.
+
+\textbf{Brandes-Aitken, A. N.},  Anguera,J.A,. Rolle, C.E., Desai, S. S., Skinner, S.S., Gazzaley, A., Marco, E. (2017). Characterizing cognitive & visuomotor control in children with sensory processing dysfunction & autism. Neuropsychology. 32(2); 148-160.
+
+*Anguera,J.A., \textbf{Brandes-Aitken, A. N.}* (*co-first authored*), Antovich, A. D. Rolle, C.E., Desai, S. S., Marco, E. J. (2017). A pilot study to determine the feasibility of enhancing cognitive abilities in children with sensory processing dysfunction. PLoS One. 12(4); 1-19. 
+
+Demopoulos, C., Yu, N., Tripp, J.,\textbf{Brandes-Aitken, A. N.}, Desai,  S. S., Hill,S. S., Antovich, A. D., Harris, J., Honma, S., Mizuiri, D., Nagarajan, S., Marco, E. J. (2017). Imaging Auditory and Somatosensory Cortical Responses in Children with Autism and Sensory Processing Dysfunction. Frontiers in human neuroscience. 11; 259.  
+ 
+Anguera, J.A., \textbf{Brandes-Aitken, A. N.}, Rolle, C.E., Skinner, S.N., Desai, S.S., Bower, J,D., Martucci, E.W., Chung, W.K., Sherr, E.H., Marco, E.J. (2016). Characterizing cognitive control abilities in children with 16p11.2 deletion using adaptive "video game" technology: a pilot study. Translational Psychiatry. 6(9):e893.
+
+Chang,Y.S., Gratiot,M., Owen,J.P., \textbf{Brandes-Aitken, A. N.}, Desai, S.S., Hill, S. S., Arnett, A.B.,  Harris, J., Marco, E.J., Mukherjee, P (2015). White matter microstructure is associated with auditory and tactile processing in children with and without sensory processing disorder. Frontiers in Neuroanatomy. 9:196.
+
+Demopoulos, C., \textbf{Brandes-Aitken, A. N.}, Desai, S. S., Hill, S. S., Antovich, A. D., Harris, J., & Marco, E. J. (2015). Shared and Divergent Auditory and Tactile Processing in Children with Autism and Children with Sensory Processing Dysfunction Relative to Typically Developing Peers. Journal of the International Neuropsychological Society, 21(06), 444-454.
+
+# Publications in Submission or Under Review
+Tavassoli, T., **Brandes-Aitken, A.N.**, Chu, R., Porter, R., Schoen, S., Miller, L.J., Chang, Y.S., Owen, J., Mukherjee, P., Marco, E.J. Sensory Over-Responsivity: Parent Report, Direct Assessment, and Neural Architecture.
+
+**Brandes-Aitken, A.N.**, Anguera, J.A.,. Chang, Y.S., Demopoulos, C., Desai, S.S., Antovich, A.A. , Owen, J.P., Mukherjee, P., Marco, E.J. White Matter Microstructure Associations of Cognitive and Visuomotor Control. 
+
+**Brandes-Aitken, A.N.**, Braren, S., Swingler, M., Voegtline, K., Blair, C. Attention in Infancy: A Foundation for the Development of Self-Regulation in Children from Low-SES Backgrounds. 
+
+# Publications in Preperation
+
+**Brandes-Aitken, A.N.**, Braren, S., Perry, R., Gandhi, J., Camerota, M.,  Swingler, M., Voegtline, K., Blair, C. Longitudinal Associations between Caregiver Behaviors, Dyadic Joint Attention, and Executive Functions in Low-SES Contexts. 
+
+**Brandes-Aitken, A.N.**, Brito, N. The Use of EEG to Study Relations Between Social Interaction and Infant Neural Activity. 
+
+# Published	Abstracts	and	Conference Presentations:
+**Brandes-Aitken, A.**, Braren, S., Perry, R., DeJoseph,M., Blair, C. (2018). Detection of Novelty in Infants from Low-SES Backgrounds: A Functional Near-Infrared Spectroscopy Study. FLUX Congress. Berlin, Germany. 
+
+**Brandes-Aitken, A.**, Braren, S., Blair, C. (2018). Joint Attention between Infants and Parents Predicts Executive Functioning and Academic Readiness in Low-Income Communities. International Congress of Infant Studies. Philadelphia, PA.
+
+**Brandes-Aitken, A.**, Braren, S., Blair, C. (2018). Joint Attention Mediates the Effects of Poverty and Parenting on Executive Functioning, Inattention and Academic Readiness. American Psychological Science Annual Convention. San Francisco, CA. 
+
+**Brandes-Aitken, A.**, Braren, S., Blair, C. (2018). Physiological and Neurocognitive Predictors of Childhood Executive Functioning Development in Low-Income Communities. FLUX Society Satellite Conference. Chapel Hill, NC. 
+
+Braren, S., **Brandes-Aitken, A.**, Blair, C. (2018). Relations Between Hypothalamic-Pituitary-Adrenal Axis and Autonomic Nervous System Activity and Children’s Executive Functions in Environments of Early-life Stress. Cognitive Neuroscience Society (CNS), Boston, MA. 
+
+**Brandes-Aitken, A.**, Anguera, J., Owen, J., Mukherjee, P., Marco, E. (2017). Assessing White Matter Correlates of Cognitive and Visuomotor Control in Children with SPD. American Academy of Child and Adolescent Psychiatry (AACAP), Washington D.C.
+
+**Brandes-Aitken, A.**, Anguera, J., Owen, J., Mukherjee, P., Marco, E. (2017). Assessing Visuomotor Deficits in Children with SPD. International Meeting for Autism Research (IMFAR), San Francisco, CA.
+
+Marco, E., **Brandes-Aitken, A.**, Tavassoli, T., Miller, L. J., Schoen, S. A., Owen, J., Mukherjee, P. (2017). Can Parent Report and Direct Assessment Measures Enhance Sensory Over- Responsivity Phenotyping and Inform the Neural Underpinnings of Sensory Processing Symptoms? International Meeting for Autism Research (IMFAR), San Francisco, CA.
+
+Demopoulos, C., Yu, N., Tripp, J., **Brandes-Aitken, A.**, Desai, S., Hill, S. S., Antovich, A. D., Harris, J., Honma, S., Mizuiri, D., Mota Miranda, N. G., Nagarajan, S., Marco, E. (2017). Evidence for Domain Specificity of Cortical Auditory and Somatosensory Response Delays in ASD. International Meeting for Autism Research (IMFAR), San Francisco, CA.
+
+**Brandes-Aitken, A.**, Anguera, J., Rolle, C., Antovich, A., Desai, S., Marco, E. (2016). Differentially Identifying and Remediating Attention Deficits in Children Affected by Sensory Processing Dysfunction. Society for Neuroscience. San Diego, CA.
+
+Anguera, J, **Brandes-Aitken, A.**, Rolle, C., Wu, B., Marco, E., Gazzaley, A. (2016). Attention training in children with SPD. International Meeting for Autism Research (IMFAR), Baltimore, MD.
+
+**Brandes-Aitken, A.**, Skinner, S., Martucci, E., Bowers, J., Anguera, J. Gazzaley, A., Marco, E. (2016). Engaging and adaptive assessment for attention in 16p11.2 deletion carriers.  International  Meeting for Autism Research (IMFAR), Baltimore, MD.
+
+Marco, E.J., de Gente, G., Thomas, S., **Brandes-Aitken, A. N.**, Sherr, E.H. (2016). Using Whole Exome Sequencing to investigate the genetics of Sensory Processing Disorders. International Meeting for Autism Research (IMFAR), Baltimore, MD.
+
+Anguera, J., **Brandes-Aitken, A.**, Rolle, C.,Wu, B., Marco, E., Gazzaley, A. (2015). Attention training in children with SPD. Bay Area Autism Consortium Symposium, Redwood City, CA.
+
+**Brandes-Aitken, A**., Demopoulos, C., Desai, S., Marco, E. (2015). Shared and Divergent Sensory Processing in children with ASD and SPD. Bay Area Autism Consortium Symposium, Redwood City, CA.
+
+**Brandes-Aitken, A.**, Skinner, S., Martucci, E., Bowers, J., Anguera, J. Gazzaley, A., Marco, E. (2015). Engaging and adaptive assessment for attention in 16p11.2 deletion carriers. Bay Area Autism Consortium Symposium, Redwood City, CA.
+
+Rolle, C., Anguera, J., **Brandes-Aitken, A**, Wu, B,, Marco, E,, Multi-tasking training in children with Sensory Processing Disorder, (2015), Entertainment Software & Cognitive Neurotherapeutics Society (ESCoNS) Conference, San Francisco, CA.
+
+**Brandes-Aitken, A.**, Freberg, L. Early to bed and early to rise, does it really make a man healthy, wealthy and wise? (2014). The Annual Meeting of the Western Psychological Science. Portland, Oregon.
+
+**Brandes-Aitken, A.**, Freberg, L. Loneliness and Health Promoting Behaviors – the Role of Motivation and Discipline. (2014). The annual meeting of the American Psychological Science. San Francisco, CA.
+
+Williams, J., Hernandez, A., **Brandes-Aitken, A.** Evidence for an Innate Desire for Concealment when Sleeping (2014). The annual meeting of the American Psychological Science. San Francisco, CA.
+
+Anguera, J.A., Rolle, C., Desai, S., **Brandes-Aitken, A.**, Gibbons, J., Harris, J., Gazzaley, A., & Marco,E. The influence of distraction on discrimination and visuomotor tracking in sensory processing deficient & autistic children. (2013) Entertainment Software & Cognitive Neurothera-peutics Society (ESCoNS) Conference, Los Angeles, CA. 
+
+#Honors, Awards & Fellowships
+Graduate Research Fellowship \hfill 2017-2020   
+ \textcolor{white}{white} National Science Foundation  
+
+Best Research Presentation Award  \hfill 2015  
+ \textcolor{white}{white} Bay Area Autism Symposium
+  
+Research Travel Award  \hfill 2014  
+ \textcolor{white}{white} Cal Poly  
+  
+Graduated Magna Cum Laude  \hfill 2014  
+ \textcolor{white}{white} Cal Poly  
+  
+Psy Chi Honor Society  \hfill 2011-2014  
+ \textcolor{white}{white} Cal Poly  
+
+#Ad Hoc Reviewing 
+Psychiatry Research \hfill 2018  
+Developmental Science \hfill 2018  
+
+#Trainings and Certifications
+Society for Neuroscience Grassroots Advocacy Training \hfill 2018   
+ \textcolor{white}{white} New York University Medical Center  
+
+Functional Near-Infrared Spectroscopy (fNIRS) Training  \hfill 2017   
+ \textcolor{white}{white} Martinos Institute for Biomedical Engineering at Harvard University  
+  
+Autism Diagnostic Observation Session Research Certified   \hfill 2015    
+ \textcolor{white}{white} University of Washington   
+  
+MRI Training and Research Certified   \hfill 2014   
+ \textcolor{white}{white} University of California, San Francisco  
+
+  
+<!-- # Programming & Software Experience -->
+<!-- Python: -->
+
+<!-- * PyGaze & PsychoPy: Experiment Programming for Eyetracking   -->
+
+<!-- MatLab: -->
+
+<!-- * EEGLAB: EEG processesing analysis   -->
+<!-- * HOMER: fNIRS processing and analysis   -->
+
+<!-- Brain Analyzer: -->
+
+<!-- * EEG cleaning -->
+
+<!-- R: -->
+
+<!-- * Data Cleaning   -->
+<!-- * Statistical Analysis & Graphics    -->
+
+<!-- SAS: -->
+
+<!-- * Statistical Analysis -->
+
+<!-- Mplus:  -->
+
+<!-- * Structural Equation Modeling -->
+
+
+# Volunteer Outreach Experience
+Brain Awareness Week Panel on Neuroscience and Policy  \hfill 2018  
+ \textcolor{white}{white} Organizer and Co-Moderator    
+  
+Scientist Action and Advocacy Network  \hfill 2018-Present  
+ \textcolor{white}{white} Member  
+  
+Girls Advancing in STEM   \hfill  2016-2017    
+ \textcolor{white}{white} Mentor/Speaker  
+ 
+Cal Poly NCAA Athletic & Academics Department  \hfill  2013-2014    
+ \textcolor{white}{white} Statistics Tutor
+  
+Intensive Autism Therapy  \hfill 2009-2011   
+ \textcolor{white}{white} Assistant Autism Therapist 
+
+# References
+Clancy Blair, PhD  
+Professor of Psychology  
+New York University  
+Clancy.Blair@nyu.edu  
+
+Natalie Brito, PhD  
+Assistant Professor of Deveopmental Psychology   
+New York University  
+Natalie.Brito@nyu.edu    
+
+Elysa Marco, MD  
+Associate Professor of Neurology   
+University of California, San Francisco  
+elysa.marco@ucsf.edu  
+
+Joaquin Anguera, PhD  
+Assistant Professor of Neurology  
+University of California, San Francisco  
+joaquin.anguera@ucsf.edu  
+
+Melina Uncapher, PhD  
+Assistant Professor of Neurology  
+University of California, San Francisco   
+melina.uncapher@ucsf.edu  
+
+Laura Freberg, PhD   
+Professor of Psychology  
+California Polytechnic State University  
+lfreberg@calpoly.edu  
+
